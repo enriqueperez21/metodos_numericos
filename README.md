@@ -20,7 +20,7 @@ Este repositorio contiene las soluciones a varios problemas de la práctica de I
 
 - **Descripción**: Este es un problema interactivo donde debes descubrir un vector binario desconocido a través de una serie de preguntas y respuestas con un juez automatizado.
 - **Enlace al Problema**: [Troll Coder](https://csacademy.com/ieeextreme-practice/task/troll-coder/)
-- **Enlace al Programa**: [Troll Coder]([https://github.com/enriqueperez21/taller1_metodos/blob/main/xplore/xplore.py](https://github.com/enriqueperez21/taller1_metodos/blob/main/troll_coder/troll_coder.py))
+- **Enlace al Programa**: [Troll Coder](https://github.com/enriqueperez21/taller1_metodos/blob/main/make_distinct/make_distinct.py)
 
 ## Tecnologías Utilizadas
 
